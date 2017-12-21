@@ -2,22 +2,17 @@
 <catalog>
   <produto>
      <nome>Brigadeiro Gourmet</nome>
-     <foto>Computer</foto>
+     <foto>https://bfpires.github.io/poti/img/img2.jpg</foto>
      <preco>130,00</preco>
   </produto>
   <produto>
      <nome>Bombom de Côco Queimado</nome>
-     <foto>Computer</foto>
+     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
      <preco>100,00</preco>
   </produto>
   <produto>
      <nome>Creme de Ninho</nome>
-     <foto>Computer</foto>
+     <foto>https://bfpires.github.io/poti/img/popotii.png</foto>
      <preco>100,00</preco>
-  </produto>
-  <produto>
-     <nome>Bombom de Nozes</nome>
-     <foto>Computer</foto>
-     <preco>150,00</preco>
   </produto>
 </catalog>
