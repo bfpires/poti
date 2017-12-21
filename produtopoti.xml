@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<catalog>
+  <produto>
+     <nome>Brigadeiro Gourmet</nome>
+     <foto>Computer</foto>
+     <preco>130,00</preco>
+  </produto>
+  <produto>
+     <nome>Bombom de Côco Queimado</nome>
+     <foto>Computer</foto>
+     <preco>100,00</preco>
+  </produto>
+  <produto>
+     <nome>Creme de Ninho</nome>
+     <foto>Computer</foto>
+     <preco>100,00</preco>
+  </produto>
+  <produto>
+     <nome>Bombom de Nozes</nome>
+     <foto>Computer</foto>
+     <preco>150,00</preco>
+  </produto>
+</catalog>
