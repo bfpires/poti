@@ -1,18 +1,45 @@
 <?xml version="1.0"?>
 <catalog>
   <produto>
-     <nome>Brigadeiro Gourmet</nome>
-     <foto>https://bfpires.github.io/poti/img/iconebuildmaker.png</foto>
-     <preco>130,00</preco>
+     <nome>Creme de Ninho</nome>
+     <foto></foto>
+     <preco>75,00</preco>
   </produto>
   <produto>
-     <nome>Bombom de Côco Queimado</nome>
+     <nome>Abacaxi</nome>
+     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
+     <preco>75,00</preco>
+  </produto>
+  <produto>
+     <nome>Côco comum ou queimado</nome>
+     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
+     <preco>75,00</preco>
+  </produto>
+  
+  <produto>
+     <nome>Nozes</nome>
      <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
      <preco>100,00</preco>
   </produto>
+  
   <produto>
-     <nome>Creme de Ninho</nome>
-     <foto>https://bfpires.github.io/poti/img/popotii.png</foto>
-     <preco>100,00</preco>
+     <nome>Brigadeiro ao leite ou branco</nome>
+     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
+     <preco>120,00</preco>
   </produto>
+  
+  
+  <produto>
+     <nome>Creme de ninho recheado</nome>
+     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
+     <preco>120,00</preco>
+  </produto>
+  
+  
+  <produto>
+     <nome>Uva</nome>
+     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
+     <preco>150,00</preco>
+  </produto>
+  
 </catalog>
