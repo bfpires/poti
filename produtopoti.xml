@@ -2,7 +2,7 @@
 <catalog>
   <produto>
      <nome>Creme de Ninho</nome>
-     <foto>ttps://bfpires.github.io/poti/img/logoPNG2.png</foto>
+     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
      <preco>1,00</preco>
      <precoComDesconto>0,75</precoComDesconto>
   </produto>
