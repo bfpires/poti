@@ -3,43 +3,50 @@
   <produto>
      <nome>Creme de Ninho</nome>
      <foto>ttps://bfpires.github.io/poti/img/logoPNG2.png</foto>
-     <preco>75,00</preco>
+     <preco>1,00</preco>
+     <precoComDesconto>0,75</precoComDesconto>
   </produto>
   <produto>
      <nome>Abacaxi</nome>
      <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
-     <preco>75,00</preco>
+     <preco>1,00</preco>
+     <precoComDesconto>0,75</precoComDesconto>
   </produto>
   <produto>
      <nome>Côco comum ou queimado</nome>
      <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
-     <preco>75,00</preco>
+     <preco>1,00</preco>
+     <precoComDesconto>0,75</precoComDesconto>
   </produto>
   
   <produto>
      <nome>Nozes</nome>
      <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
-     <preco>100,00</preco>
+     <preco>1,20</preco>
+     <precoComDesconto>1,00</precoComDesconto>
   </produto>
   
   <produto>
      <nome>Brigadeiro ao leite ou branco</nome>
      <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
-     <preco>120,00</preco>
+     <preco>1,20</preco>
+     <precoComDesconto>1,00</precoComDesconto>
   </produto>
   
   
   <produto>
      <nome>Creme de ninho recheado</nome>
      <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
-     <preco>120,00</preco>
+     <preco>1,20</preco>
+     <precoComDesconto>1,00</precoComDesconto>
   </produto>
   
   
   <produto>
      <nome>Uva</nome>
      <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
-     <preco>150,00</preco>
+     <preco>1,50</preco>
+     <precoComDesconto>1,20</precoComDesconto>
   </produto>
   
 </catalog>
