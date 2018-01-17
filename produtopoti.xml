@@ -8,7 +8,7 @@
   </produto>
   <produto>
      <nome>Abacaxi</nome>
-     <foto>http://uploaddeimagens.com.br/images/001/243/570/original/IMG-20180109-WA0027.jpg?1515519999</foto>
+     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
      <preco>1,00</preco>
      <precoComDesconto>0,75</precoComDesconto>
   </produto>
@@ -44,7 +44,7 @@
   
   <produto>
      <nome>Uva</nome>
-     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
+     <foto>http://uploaddeimagens.com.br/images/001/243/570/original/IMG-20180109-WA0027.jpg?1515519999</foto>
      <preco>2,50</preco>
      <precoComDesconto>1,50</precoComDesconto>
   </produto>
