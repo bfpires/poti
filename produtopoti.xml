@@ -8,7 +8,7 @@
   </produto>
   <produto>
      <nome>Abacaxi</nome>
-     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
+     <foto>http://uploaddeimagens.com.br/images/001/253/463/full/abacaxi.jpg?1516204609</foto>
      <preco>1,00</preco>
      <precoComDesconto>0,75</precoComDesconto>
   </produto>
@@ -36,7 +36,7 @@
   
   <produto>
      <nome>Creme de ninho recheado</nome>
-     <foto>https://bfpires.github.io/poti/img/logoPNG2.png</foto>
+     <foto>http://uploaddeimagens.com.br/images/001/253/464/full/ninho.jpg?1516204623</foto>
      <preco>1,50</preco>
      <precoComDesconto>1,20</precoComDesconto>
   </produto>
