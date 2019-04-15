@@ -16,21 +16,21 @@
      <nome>Côco comum ou queimado</nome>
      <foto>http://uploaddeimagens.com.br/images/001/256/102/full/2cocos.png?1516371981</foto>
      <preco>1,00</preco>
-     <precoComDesconto>0,75</precoComDesconto>
+     <precoComDesconto>0,85</precoComDesconto>
   </produto>
   
   <produto>
      <nome>Nozes</nome>
      <foto>http://uploaddeimagens.com.br/images/001/243/565/original/IMG-20180109-WA0016.jpg?1515519928</foto>
      <preco>1,30</preco>
-     <precoComDesconto>1,00</precoComDesconto>
+     <precoComDesconto>1,10</precoComDesconto>
   </produto>
   
   <produto>
      <nome>Brigadeiro ao leite ou branco</nome>
      <foto>http://uploaddeimagens.com.br/images/001/243/568/original/IMG-20180109-WA0024.jpg?1515519971</foto>
      <preco>1,50</preco>
-     <precoComDesconto>1,20</precoComDesconto>
+     <precoComDesconto>1,30</precoComDesconto>
   </produto>
   
   
